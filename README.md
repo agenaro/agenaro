@@ -1,9 +1,11 @@
+<div align="center">
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+  </div>
+ <br/>
 
 
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=agenaro&show_icons=true)
-
-
-<a href="https://github.com/agenaro">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenaro&theme=radical&hide=glsl,python" />
-</a>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
