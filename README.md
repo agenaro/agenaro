@@ -2,8 +2,3 @@
 <h1 align="center">Hi 👋, I'm Genaro Acuña</h1>
 
 
-<div align="center">
-  <a href="https://github.com/agenaro">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
