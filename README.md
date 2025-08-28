@@ -5,7 +5,6 @@ Tengo experiencia en una variedad de tecnologías y compartir mis conocimientos 
 
 - 🔭 Actualmente estoy trabajando en Ingenea
 - 🌱 Actualmente estoy aprendiendo: <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="25"/> Angular
-- 📫 Cómo llegar a mí: agenarodamian1@gmail.com
 - 😄 Pronombres: Gena 😄 
 
 ## 🛠️ Habilidades técnicas
